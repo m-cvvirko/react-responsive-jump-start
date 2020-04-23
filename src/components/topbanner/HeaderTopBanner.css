@@ -1,0 +1,21 @@
+.svk-banner-top {
+    background-color: #151a4e;
+    color: #fff;
+    padding: 0.5em 0;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+.svk-banner-top .text-wrapper p {
+    padding: 0 2em;
+    margin: 0;
+    font-weight: 300;
+    font-size: 0.6em;
+    text-align: right;
+ }
+
+ @media (max-width: 992px){
+    .hidden-xs {
+        display: none;
+    }
+}
